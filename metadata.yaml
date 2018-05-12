@@ -1,0 +1,26 @@
+_repo: Life-in-a-Thousand-Worlds_14770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, W. S. (William Shuler)
+    alias: Harris, William Shuler
+    birthdate: 1865
+    gutenberg_agent_id: '2069'
+    url: http://www.gutenberg.org/2009/agents/2069
+description: Cover -- Contents.
+gutenberg_issued: '2005-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Utopias'
+title: Life in a Thousand Worlds
+url: http://www.gutenberg.org/ebooks/14770
