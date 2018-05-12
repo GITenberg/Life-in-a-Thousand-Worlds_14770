@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2069'
     url: http://www.gutenberg.org/2009/agents/2069
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14770#Life-in-a-Thousand-Worlds
 gutenberg_issued: '2005-01-23'
 gutenberg_type: Text
 identifiers:
